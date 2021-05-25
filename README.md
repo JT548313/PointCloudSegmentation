@@ -19,9 +19,11 @@ Following operations have been performed in this algorithm:
 
 
 ## Steps to run PointCloudSegmentation:
+```
 $ cd PointCloudSegmentation
 $ mkdir build
 $ cd build
 $ ckmake ..
 $ make
 $ ./pcs_exe
+```
