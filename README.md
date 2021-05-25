@@ -23,7 +23,7 @@ Following operations have been performed in this algorithm:
 $ cd PointCloudSegmentation
 $ mkdir build
 $ cd build
-$ ckmake ..
+$ cmake ..
 $ make
 $ ./pcs_exe
 ```
